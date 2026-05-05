@@ -1,0 +1,8 @@
+{
+  "name": "Time In State",
+  "description": "Time In State — a CustomAgile Rally widget that shows how long artifacts spend in each state",
+  "sdk": "html",
+  "version": "0.1.0",
+  "bundleReact": false,
+  "build": 0
+}
